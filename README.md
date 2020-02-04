@@ -48,3 +48,11 @@
 
 #### 下载地址： 
 链接:https://pan.baidu.com/s/1RTH8nS-O4KTVxKwVUI9WMw  密码:jtql
+
+
+
+![1](/Users/lyj/Documents/GitHub/Hackintosh-CLEVO-H/src/1.png)
+
+
+
+![2](/Users/lyj/Documents/GitHub/Hackintosh-CLEVO-H/src/3.jpg)
