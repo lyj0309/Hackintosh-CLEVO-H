@@ -48,6 +48,7 @@
 
 #### 下载地址： 
 链接:https://pan.baidu.com/s/1RTH8nS-O4KTVxKwVUI9WMw  密码:jtql
+        https://github.com/lyj0309/Hackintosh-CLEVO-H/releases
 
 
 
