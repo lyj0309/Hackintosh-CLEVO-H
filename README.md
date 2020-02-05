@@ -51,8 +51,8 @@
 
 
 
-![1](/Users/lyj/Documents/GitHub/Hackintosh-CLEVO-H/src/1.png)
+![1](./src/1.png)
 
 
 
-![2](/Users/lyj/Documents/GitHub/Hackintosh-CLEVO-H/src/3.jpg)
+![2](./src/3.jpg)
