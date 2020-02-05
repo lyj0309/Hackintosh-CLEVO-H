@@ -3,8 +3,11 @@
 
 
 + 用的是黑果小兵的15.3镜像https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html
-
 + 必须要冷启动，必要时候通过win关机再启动
+
+
+
++ 好用的话记得star一下😊
 
 已经测试的机型包括我的G8-ct7na和我室友的G7还有一个同学的
 
