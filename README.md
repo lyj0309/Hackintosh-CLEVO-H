@@ -61,7 +61,7 @@
         
         https://github.com/lyj0309/Hackintosh-CLEVO-H/releases
 
-+ 希望大家d早日吃上完美黑果
++ 希望大家早日吃上完美黑果
 
 ![1](./src/1.png)
 
