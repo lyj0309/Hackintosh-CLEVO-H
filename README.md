@@ -1,6 +1,7 @@
 # Hackintosh-CLEVO-H
 ## 神舟战神炫龙蓝天 8/9 代全系机型(标压) macOS 10.15 Catalina EFI  NH5xRD_RC_RA_RH(Q)/NH70RD_RC_RA_RH(Q) 
 
+#### 神州已经卖了···AMD YES，加上wsl2也蛮成熟了，转win了，暂更
 
 + 用的是黑果小兵的15.3镜像https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html
 + 必须要冷启动，必要时候通过win关机再启动
